@@ -12,3 +12,4 @@ from .embedding import *
 from .recurrent import *
 from .special import *
 from .spp import *
+from .deconv2D import *
